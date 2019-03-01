@@ -48,7 +48,6 @@ In the Game class, the part of the original run function that generates two play
 
 Every class and object are named intuitively so that you can easily understand the function of them.
 
-
 5. Acknowledgement:
 Thanks to Dr. Kalev Kask for the instruction of the course, CS271: Introduction to Artificial Intelligence, in Fall 2018;
 Thanks to all the people who give our team suggestions for the project.
