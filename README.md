@@ -14,12 +14,8 @@ After computers move, it should expect as input a pair (x,y) that defines opposi
 
 
 3.Running Method: 
-Follow the "Python Download and Intallation Instructions" to download Python;
-Follow the "Environment variables" to create the running environment for Python;
-Copy the file °∞UCI_AI_Chaser°±to the project file (shown in your IDE) of your Python IDE (suggestion: PyCharm;click the"download PyCharm" to get the download link); 
 Open Python IDE;
-Open the project file °∞UCI_AI_Chaser°±;
-You will see several python files;
+Create a new project file and copy the four python files into your project file.
 
 If you want to check the Result 1 in the report, you should use right mouse to click othello.py  and click °Ærun°Ø firstly. The Othello.py is a game between two AIplayers;
 
